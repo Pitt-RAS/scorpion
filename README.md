@@ -1,6 +1,6 @@
-#Scorpion
+# Scorpion
 ----------
-##Team Leads: Ben Bush and Vinayak Nesarikar
+## Team Leads: Ben Bush and Vinayak Nesarikar
 ---------
 Corresponding Mechanical CAD (SolidWorks) files can be found [here](https://drive.google.com/open?id=0ByX0XhLn-1k_elJDRl93ZmpBZ0E)
 
@@ -8,7 +8,7 @@ Corresponding Electrical CAD (Eagle) files can be found [here](https://drive.goo
 
 ------------
 
-###Components used:
+### Components used:
 
 1. [Feetech FR0115M 15KG Metal Gear Double Shaft Servo](https://www.alibaba.com/product-detail/Feetech-FR0115M-15KG-Metal-Gear-double_60246376896.html?spm=a2700.7724838.0.0.RA8L1h)
 
@@ -23,7 +23,7 @@ Corresponding Electrical CAD (Eagle) files can be found [here](https://drive.goo
 6. [Turnigy 2650mAh 3S 40C Lipo Pack](https://hobbyking.com/en_us/turnigy-2650mah-3s-40c-lipo-pack.html)
 
 ------------
-###Useful Reference Guides
+### Useful Reference Guides
 
 1. [Mini Maestro Arduino Reference](https://github.com/pololu/maestro-arduino)
 
@@ -34,7 +34,7 @@ Corresponding Electrical CAD (Eagle) files can be found [here](https://drive.goo
 4. [Bluetooth Module 2](https://learn.sparkfun.com/tutorials/bluetooth-basics)
 
 ------------
-###How to Use The Robot
+### How to Use The Robot
 
 1. In Maestro's control panel ([Windows](https://www.pololu.com/file/0J266/maestro-windows-130422.zip) or [Linux](https://www.pololu.com/file/0J315/maestro-linux-150116.tar.gz)) make sure the lower target value is set to its lowest value and the higher target value is set to its highest value.
 
@@ -70,7 +70,7 @@ Corresponding Electrical CAD (Eagle) files can be found [here](https://drive.goo
 <b>Note: The robot moves best on a flat rough surface. </b> 
 
 -------------
-###Things That Still Need to be Done:
+### Things That Still Need to be Done:
 
 1. Test the circuit board.
 
